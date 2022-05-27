@@ -1,3 +1,6 @@
-Hello, how are you?  
+Hellow
 
-Starting our communication with versions control. 
+*Курсив.*
+
+2nd line created
+
