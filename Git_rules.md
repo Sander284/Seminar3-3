@@ -15,5 +15,18 @@
 8. Добавляем ссылку так: [link to image](../1.png)
 9. Добавляем фото кошки: ![The Cat](./2.jpg)
 10. Работаем с удалеными репозиториями через сайт: www.github.com 
-    * создаем аккаунт
-    * 
+    * ... или создайте новый репозиторий в командной строке
+    эхо "# Seminar3-3" >> README.md
+    git init
+    git add README.md
+    git commit -m "first commit"
+    git branch -M main
+    git remote add origin https://github.com/Sander284/Seminar3-3.git
+    git push -u origin main
+    * ... или нажмите существующий репозиторий из командной строки
+    git remote add origin https://github.com/Sander284/Seminar3-3.git
+    git branch -M main
+    git push -u origin main
+    * ... или импортировать код из другого репозитория
+    Вы можете инициализировать этот репозиторий с помощью кода из проекта Subversion, Mercurial или TFS.
+
